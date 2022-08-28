@@ -52,7 +52,7 @@ Write the following commands to clone and run it:
 👤 *Titi Apuabi*
 - GitHub: [@eternalgratis](https://github.com/Eternalgratis)
 - Twitter: [@eternalgratis](https://twitter.com/eternalgratis)
-- LinkedIn: [@eternalgratis](https://www.linkedin.com/in/titilope-apuabi-69a98719b/)
+- LinkedIn: [@eternalgratis](https://www.linkedin.com/in/titilope-apuabi/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
