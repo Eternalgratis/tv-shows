@@ -11,7 +11,7 @@
 - API
 
 ## Live Demo (available)
-[Live Demo Link](https://danigalindo10.github.io/tv-shows/dist/)
+[Live Demo Link](https://eternalgratis-tvshows.netlify.app/)
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
